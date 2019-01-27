@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: helios;
+  src: url(helios.ttf);
+}
+h1{
+  font-family:helios;
+
+}
+placeholder{
+  opacity: 0.1;
+  font-family: helios;
+}
+h3{
+  font-family: helios;
+}
+td{
+  font-family: helios;
+}
